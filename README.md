@@ -17,7 +17,7 @@ Wireless card support monitor mode and run as root.
 
 ## How to use
 ```
-git clone https://github.com/xG4L1L30x/xDeauther
+git clone https://github.com/Gopalakrishnan20/WiJAMMER
 cd WiJAMMER
 ./install.sh
 ./WiJAMMER.sh
