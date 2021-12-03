@@ -2,7 +2,7 @@
 WiJAMMER is a Hacking tool for deauthentication attack wifi with mdk4 or aireplay-ng. Easy and fast to use.
 
 
-![Screenshot_20210130_200919](https://user-images.githubusercontent.com/59124057/106358257-ace86b80-633d-11eb-8b00-0bc15f24a529.png)
+![WiJAMMER](https://user-images.githubusercontent.com/48313492/144552630-dde21b0f-5f96-4c45-a0ca-5c4d3e7aa265.PNG)
 
 
 ## Dependecies
