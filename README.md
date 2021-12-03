@@ -1,4 +1,4 @@
-# WiJAMMER ![Version](https://img.shields.io/badge/xDeauther-v1.0-blue?style=flat-square) ![Support](https://img.shields.io/badge/Supported_OS-Linux-red?style=flat-square) ![License](https://img.shields.io/badge/License-GPL-green?style=flat-square)
+# WiJAMMER ![Version](https://img.shields.io/badge/WiJAMMER-v1.0-blue) ![Support](https://img.shields.io/badge/Supported%20OS-Linux-red) ![License](https://img.shields.io/badge/License-GPL-green?style=flat-square)
 WiJAMMER is a Hacking tool for deauthentication attack wifi with mdk4 or aireplay-ng. Easy and fast to use.
 
 
